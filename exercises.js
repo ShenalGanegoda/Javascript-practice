@@ -1,8 +1,6 @@
-const num01 = 23;
-const num02 = 23;
+/*
+Write a JavaScript program to rotate the string 'w3resource' in the right direction.
+This is done by periodically removing one letter from the string end and attaching it to the front.
+*/
 
-console.log(myFirstFunction(num01, num02));
-
-function myFirstFunction(num01, num02) {
-  return num01 + num02;
-}
+function stringRotation(string){}
